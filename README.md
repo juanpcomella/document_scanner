@@ -55,6 +55,7 @@ Unlike the original PyImageSearch tutorial, this project uses an improved, robus
  - Merge remaining contours into a convex hull
  - Approximate to 4 corners
  - Fallback: minimum area rectangle
+
 This ensures the page is detected even if:
  - part of the edge is in shadow
  - the background is similar to the paper
